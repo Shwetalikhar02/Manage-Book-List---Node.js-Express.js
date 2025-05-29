@@ -1,7 +1,7 @@
 # Manage-Book-List---Node.js-Express.js
 Create a REST API to Manage a List of Books Using Node.js and Express.
 
-This is a simple RESTful API to manage a list of books. It is built using Node.js and Express
+This is a simple RESTful API to manage a list of books. It is built using Node.js and Express.js
 Features:
 - Get all books
 - Get a book by ID
